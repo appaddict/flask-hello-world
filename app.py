@@ -6,11 +6,9 @@ def hello_world():
 
     my_html =  '''
     
-    <body style="font-size:10vw">
-    
-    
-        <h1 style="color:  #002aff;">Hello World</h1>
-    
+    <body style="font-size: 2.5em;">
+        <h1 style="color:  #0000ff;">Hello World</h1>
+        <p>This is a message from Ku, hahaha</p>
     </body>
     
     ''' 
